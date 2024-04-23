@@ -7,4 +7,4 @@ A Microsoft Excel tool to help a user calculate Foreign Per Diem travel expenses
 2. User inputs the start and end dates of the trip (red highlight on F3 and F4).
 3. Follow the instructions above each column to fill out the table.
 
-foreign-per-diem-calculator-for-usa-based-institutions © 2022 by Philip Bachas-Daunert is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International 
+foreign-per-diem-calculator-for-usa-based-institutions © 2022 by Philip Bachas-Daunert is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/)
