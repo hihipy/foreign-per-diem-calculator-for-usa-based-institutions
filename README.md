@@ -68,4 +68,4 @@ Summary totals: =SUM(H:H)
 - Verify calculations before submission
 
 ## License
-Foreign Per Diem Calculator for USA Based Institutions © 2022 by Philip Bachas-Daunert is licensed under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+Foreign Per Diem Calculator for USA Based Institutions © 2019 by Philip Bachas-Daunert is licensed under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
