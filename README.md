@@ -1,10 +1,71 @@
-# foreign-per-diem-calculator-for-usa-based-institutions
-A Microsoft Excel tool to help a user calculate Foreign Per Diem travel expenses using “Per Diem Rates” methodology. See [U.S. Department of State: Office of Allowances: Foreign Per Diem Rates](https://aoprals.state.gov/content.asp?content_id=184&amp;menu_id=78) for additional background information.
+ # foreign-per-diem-calculator-for-usa-based-institutions
 
-## What to Do?
+## Overview
+The Foreign Per Diem Calculator for USA Based Institutions is an Excel-based tool designed to streamline international travel expense calculations. It integrates with U.S. State Department resources to provide accurate M&IE (Meals and Incidental Expenses) rates and automates complex calculations for corporate, government, and academic organizations.
 
-1. Enable secure connection when opening the Excel file to connect to [Allocation of M&IE Rates to Be Used in Making Deductions from the M&IE Allowance Webpage Table](https://aoprals.state.gov/content.asp?content_id=114&menu_id=75).
-2. User inputs the start and end dates of the trip (red highlight on F3 and F4).
-3. Follow the instructions above each column to fill out the table.
+## Key Features
 
-foreign-per-diem-calculator-for-usa-based-institutions © 2022 by Philip Bachas-Daunert is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+### Automated Data Handling
+- Date Management: Auto-populates travel dates and calculates total travel days
+- Daily Totals: Calculates expenses with meal deduction factors
+- Summary Section: Aggregates total foreign per diem and travel days
+
+### Integration with U.S. State Department Resources
+- [M&IE Rates](https://aoprals.state.gov/content.asp?content_id=184&menu_id=78): Direct link to current rates by location
+- [Meal Deduction Table](https://aoprals.state.gov/content.asp?content_id=114&menu_id=75): Auto-updates M&IE rate allocations
+
+### User-Friendly Input Fields
+- Checkbox Deduction System: Mark travel days and provided meals
+- Optional Notes: Additional context field for travel details
+
+### Real-Time Calculations
+- Dynamic Fields: Instant updates for totals and deductions
+- Error Reduction: Automated calculations minimize manual errors
+
+## How to Use
+
+1. **Input Travel Dates**
+   - Enter first and last travel days
+   - Total travel days calculate automatically
+
+2. **Enter Location Details**
+   - Input city and country for each travel day
+
+3. **Retrieve M&IE Rates**
+   - Use State Department website link
+   - Enter applicable rates
+
+4. **Mark Travel Days and Meals**
+   - Check boxes for travel days
+   - Indicate provided meals
+
+5. **Review Results**
+   - View daily totals with deductions
+   - Check summary section
+
+6. **Add Notes**
+   - Document specific details or exceptions
+
+## Technical Details
+
+### Excel Automation
+```excel
+Travel day calculation: =F2-F1
+Daily totals: Sum(M&IE rate - deductions)
+Summary totals: =SUM(H:H)
+```
+
+### Dynamic Features
+- Auto-updating M&IE rate lookup
+- Real-time meal deduction calculations
+
+## Requirements
+- Microsoft Excel 2016 or later
+- Internet connection for real-time rates
+
+## Best Practices
+- Attach M&IE rate documentation
+- Verify calculations before submission
+
+## License
+Foreign Per Diem Calculator for USA Based Institutions © 2022 by Philip Bachas-Daunert is licensed under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
