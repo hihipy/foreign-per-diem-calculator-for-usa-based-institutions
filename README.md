@@ -70,6 +70,13 @@ Summary totals: =SUM(H:H)
 
 ## License
 
-Foreign Per Diem Calculator for USA-Based Institutions © 2019 Philip Bachas-Daunert
+This project is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-Distributed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+You are free to:
+- Use, share, and adapt this work
+- Use it at your job
+
+Under these terms:
+- **Attribution** — Credit the original author
+- **NonCommercial** — No selling or commercial products
+- **ShareAlike** — Derivatives must use the same license
