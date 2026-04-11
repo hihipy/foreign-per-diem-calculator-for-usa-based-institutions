@@ -1,4 +1,4 @@
-# Foreign Per Diem Calculator for USA-Based Institutions
+# foreign-per-diem-calculator-for-usa-based-institutions
 
 An Excel tool for calculating international travel expenses. Integrates with U.S. State Department resources to provide accurate M&IE (Meals and Incidental Expenses) rates and automates deduction calculations for corporate, government, and academic organizations.
 
