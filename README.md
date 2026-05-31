@@ -1,5 +1,12 @@
 # foreign-per-diem-calculator-for-usa-based-institutions
 
+[![Link Check](https://github.com/hihipy/foreign-per-diem-calculator-for-usa-based-institutions/actions/workflows/links.yml/badge.svg)](https://github.com/hihipy/foreign-per-diem-calculator-for-usa-based-institutions/actions/workflows/links.yml)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+**Built with**
+
+[![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
+
 An Excel tool for calculating international travel expenses. Integrates with U.S. State Department resources to provide accurate M&IE (Meals and Incidental Expenses) rates and automates deduction calculations for corporate, government, and academic organizations.
 
 ## Features
