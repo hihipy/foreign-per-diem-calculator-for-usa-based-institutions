@@ -9,6 +9,8 @@
 
 An Excel tool for calculating international travel expenses. It links to U.S. State Department resources for current M&IE (Meals and Incidental Expenses) rates and automates the deduction calculations for corporate, government, and academic organizations.
 
+---
+
 ## Features
 
 ### Automated Data Handling
@@ -32,6 +34,8 @@ An Excel tool for calculating international travel expenses. It links to U.S. St
 - **Dynamic fields:** Totals and deductions update as you type
 - **Fewer errors:** Automated calculations cut down on manual mistakes
 
+---
+
 ## How to Use
 
 1. **Input travel dates**
@@ -51,6 +55,8 @@ An Excel tool for calculating international travel expenses. It links to U.S. St
 6. **Add notes**
    - Document specific details or exceptions
 
+---
+
 ## Technical Details
 
 ### Excel Formulas
@@ -66,15 +72,21 @@ Summary totals: =SUM(H:H)
 - Auto-updating M&IE rate lookup
 - Live meal deduction calculations
 
+---
+
 ## Requirements
 
 - Microsoft Excel 2016 or later
 - Internet connection for current rates
 
+---
+
 ## Best Practices
 
 - Attach M&IE rate documentation
 - Verify calculations before submission
+
+---
 
 ## License
 
